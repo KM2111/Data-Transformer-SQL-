@@ -35,6 +35,4 @@ Data transformation is an essential step in data processing where raw data is cl
 - GROUP BY operations  
 - Aggregate functions (SUM, COUNT, AVG, etc.)  
 
-SQL transformation plays a key role in data pipelines by processing and reshaping data for analysis and storage :contentReference[oaicite:1]{index=1}.
-
-## 📁 File Structure
+SQL transformation plays a key role in data pipelines by processing and reshaping data for analysis and storage
